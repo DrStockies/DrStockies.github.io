@@ -1,0 +1,40 @@
+section{
+	font-family: "Courier New", monospace;
+	line-height: 20px;
+}
+.article{
+	padding: 15px;
+	border: 3px green solid;
+	border-radius: 15px;
+}
+
+.TPs{
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color:red;
+}
+
+.mainHeader{
+	text-align: center;
+}
+li{
+	font-weight: bold;
+}
+header{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+}
+h3{
+	font-weight: bold;
+	font-size: 23px;
+}
+h2{
+	font-weight: bold;
+	font-size: 26px;
+}
+
